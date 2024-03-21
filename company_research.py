@@ -2,7 +2,7 @@ import streamlit as st
 import anthropic
 
 client = anthropic.Anthropic(
-    api_key="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",
+    api_key="ADD_API_KEY",
 )
 
 st.title('Company Research')
